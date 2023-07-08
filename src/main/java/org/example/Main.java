@@ -30,7 +30,7 @@ public class Main {
                 System.out.println("Exit ...");
                 break;
             }
-            StoreWarehouse storeWarehouse = new StoreWarehouse();;
+            StoreWarehouse storeWarehouse = new StoreWarehouse();
             switch (operation) {
                 case 1:
                     System.out.println("Код товара | Наименование продукта | Цена | Рейтинг товара | Поставщик | Описание");
